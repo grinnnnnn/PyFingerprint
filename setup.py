@@ -7,6 +7,6 @@ setup(name='PyFingerprint',
       author='Ji Hongchao',
       author_email='ji.hongchao@foxmail.com',
       url='https://github.com/hcji/PyFingerprint',
-      data_files = [('', ['PyFingerprint/CDK/cdk-2.2.jar'])],
+      data_files = [('', ['CDK/cdk-2.2.jar'])],
       packages=find_packages()
      )
